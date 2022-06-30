@@ -11,7 +11,7 @@ RShift  Packet XP[需要将经验瓶放入快捷栏，可在Pyro-World-Fastplace
 Y Burrow 【Melon】                                                                                          
 杀戮  默认开启【Pyro】                               
 J 灵魂出窍 【Pyro】                                                                     
-H 自动搭路【Pyro】                                                                                                                                                                                                                   
+H 自动搭路【Pyro】                                                                                                                                                         R盖头  【Ab】                                                     
 C炸头【Ab】                                                                   
 秒挖 点一下就行 xin√ song√ icu√    默认开启【Melon】
 G Surround【Melon】
